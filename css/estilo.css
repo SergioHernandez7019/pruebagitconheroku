@@ -1,0 +1,60 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	font-family: arial;
+}
+
+#ppal{
+	width: 950px;
+	margin: 0px auto;
+	text-align: center;
+	background: rgh(7,197,181);
+	background: background: rgb(7,197,181);
+background: linear-gradient(0deg, rgba(7,197,181,1) 43%, rgba(242,245,245,1) 100%);
+}
+
+h1{
+	float: left;
+	margin: 3px;
+	color: green;
+}
+
+h4{
+	float: left;
+	margin: 3px;
+	margin-top: 18px;
+	color: red;
+}
+
+nav{
+	float: right;
+	margin-top: 15px;
+}
+
+nav li{
+	display: inline;
+	font-size: 20px; 
+	padding-left:15px;
+	padding-right: 5px;
+	text-shadow: 3px 3px 5px gray;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold; 
+}
+
+img{
+	margin: 0px auto; 
+}
+
+#texto{
+	font: bold 150px Arial;
+	color: blue;
+	text-shadow: gray 10px 10px 5px;  
+    position: relative;
+	top: -450px
+}
